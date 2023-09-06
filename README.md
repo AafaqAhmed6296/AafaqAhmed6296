@@ -17,6 +17,4 @@ Skills: iOS | Swift | Python | Javascript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AafaqAhmed6296&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AafaqAhmed6296)  
 
-![Profile views](https://gpvc.arturio.dev/AafaqAhmed6296)  
