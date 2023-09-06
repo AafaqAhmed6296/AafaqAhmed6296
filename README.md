@@ -12,7 +12,6 @@ I am an experienced iOS Developer. I really enjoy languages like swift, python a
 * 🕊️ Swift
 * ⚛️ React
 
-Skills: iOS | Swift | Python | Javascript
 
 - 🔭 I’m currently working on Fiverr, Upwork and my own company 
 - 🌱 I’m currently learning Javascript, React, Deep dive in ML for iOS 
