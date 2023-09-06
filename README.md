@@ -6,6 +6,12 @@
 
 I am an experienced iOS Developer. I really enjoy languages like swift, python and javascript. I also write articles on iOS on Medium. I am a full time freelancer. I am incredibly interested in emerging technologies like CoreML( for Machine Learning) and ARKit(for Augmented Reality).
 
+## Skills and Experience
+* 📱 iOS
+* ⌚️ WatchOS
+* 🕊️ Swift
+* ⚛️ React
+
 Skills: iOS | Swift | Python | Javascript
 
 - 🔭 I’m currently working on Fiverr, Upwork and my own company 
