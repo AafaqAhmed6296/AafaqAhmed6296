@@ -1,8 +1,6 @@
 
 ![iOS Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 # Aafaq Ahmed Saqi
----
-
 I am an experienced iOS Developer. I really enjoy languages like swift, python and javascript. I also write articles on iOS on Medium. I am a full time freelancer. I am incredibly interested in emerging technologies like CoreML( for Machine Learning) and ARKit(for Augmented Reality).
 
 ## Skills and Experience
@@ -17,6 +15,5 @@ I am an experienced iOS Developer. I really enjoy languages like swift, python a
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AafaqAhmed6296&show_icons=true&count_private=true)  
 
 
